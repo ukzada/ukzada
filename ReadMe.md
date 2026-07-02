@@ -1,18 +1,192 @@
-# 💫 About Me:
-# Hi, I'm Usman Khan 👋<br><br>I’m a **Co-Founder & Chief Product Officer (CPO) at Agus Systems**, an **AI/ML Engineer**, and an active **Open Source Contributor**.<br><br>My expertise spans across **Artificial Intelligence, Machine Learning, Large Language Models, SaaS engineering, and automation systems**. I specialize in building intelligent systems from the ground up — from **training core AI models** to deploying production-ready scalable products.<br><br>I work at the intersection of:<br><br>* **AI Research**<br>* **Machine Learning Engineering**<br>* **Product Architecture**<br>* **Automation Systems**<br>* **Scalable SaaS Development**<br><br>---<br><br>## AI / ML Engineering<br><br>My core expertise includes:<br><br>### Deep Learning & Model Training<br><br>* Training custom machine learning models<br>* Neural network architecture design<br>* Transformer model fine-tuning<br>* Data preprocessing and feature engineering<br>* Model optimization and evaluation<br>* Hyperparameter tuning<br>* Distributed training workflows<br>* Model compression and optimization<br><br>### Large Language Models (LLMs)<br><br>* Fine-tuning LLMs for specialized tasks<br>* Retrieval-Augmented Generation (RAG)<br>* Multi-agent AI systems<br>* Prompt engineering and optimization<br>* Tool-calling agent architectures<br>* Memory systems for conversational AI<br>* Embedding pipelines<br>* Vector database integrations<br><br>### Computer Vision<br><br>* OCR model development<br>* Document intelligence systems<br>* Object detection pipelines<br>* Face detection systems<br>* AR-based computer vision systems<br>* Image preprocessing and enhancement<br><br>### AI Infrastructure<br><br>* Model deployment pipelines<br>* GPU-based training environments<br>* Scalable inference systems<br>* API serving for AI models<br>* AI workflow orchestration<br>* Self-hosted model deployment<br><br>---<br><br>## Professional Experience<br><br>### Co-Founder & CPO — Agus Systems<br><br>**Present**<br><br>Leading product development, AI architecture, and engineering strategy for scalable AI products and automation systems.<br><br>Responsibilities:<br><br>* Product strategy & roadmap<br>* AI product design<br>* ML pipeline development<br>* Model deployment architecture<br>* Workflow automation systems<br>* Scalable backend engineering<br>* Team technical direction<br><br>---<br><br>### AI/ML Engineer<br><br>Worked on:<br><br>* Custom AI model training<br>* LLM fine-tuning<br>* OCR intelligence systems<br>* Automated data pipelines<br>* NLP systems<br>* AI agent frameworks<br>* Predictive automation systems<br>* Business intelligence models<br><br>---<br><br>### ARV Fashion Mirror — AI / Computer Vision Engineer<br><br>Built and optimized:<br><br>* Real-time virtual try-on systems<br>* Face landmark detection<br>* AI-powered fashion overlays<br>* Computer vision optimization pipelines<br>* User interaction models<br><br>---<br><br>### OCR & Document Intelligence Systems<br><br>Built production systems for:<br><br>* Invoice OCR extraction<br>* Automated bookkeeping<br>* Document classification<br>* Smart financial parsing<br>* AI-based invoice validation<br><br>Currently building **LedgerLens**, an AI-powered OCR and bookkeeping SaaS.<br><br>---<br><br>### Telephony & Automation Systems Engineer<br><br>Built and managed:<br><br>* VICIdial infrastructure<br>* CRM automation systems<br>* Lead funnel systems<br>* AI sales bots<br>* Client onboarding workflows<br>* Smart communication systems<br><br>---<br><br>## Open Source<br><br>I actively contribute to open-source technologies and build tools focused on:<br><br>* AI infrastructure<br>* Automation systems<br>* Backend development<br>* Developer tooling<br>* Workflow engines<br>* Machine learning integrations<br><br>---<br><br>## Current Projects<br><br>🚀 LedgerLens — AI invoice OCR SaaS<br>🚀 Multi-agent LLM systems<br>🚀 SmartCredit AI Automation<br>🚀 AI lead generation pipelines<br>🚀 Telegram AI bots<br>🚀 Self-hosted automation infrastructures<br>🚀 Custom model training systems<br><br>---<br><br>## Tech Stack<br><br>### AI / ML<br><br>Python • PyTorch • TensorFlow • OpenCV • Hugging Face • LangChain • OpenAI APIs • Vector DBs<br><br>### Backend<br><br>Node.js • NestJS • FastAPI • Express<br><br>### Frontend<br><br>Next.js • React • Flutter<br><br>### Databases<br><br>PostgreSQL • Prisma • Redis • Firebase<br><br>### DevOps<br><br>Docker • Linux • Nginx • VPS • GPU Servers<br><br>### Automation<br><br>n8n • Zapier • Webhooks • API Integrations<br><br>---<br><br>## What Drives Me<br><br>I build intelligent systems that combine **research-level AI engineering** with **real-world business applications** — transforming ideas into scalable, production-ready technology.<br>
+# Hi, I'm Usman Khan 👋
 
+I’m a **Co-Founder & Chief Product Officer (CPO) at Agus Systems**, an **AI/ML Engineer**, and an active **Open Source Contributor**.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/usmankhan1957) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/USMAN KHAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:musmankai37@gmail.com) 
+My expertise spans across **Artificial Intelligence, Machine Learning, Large Language Models, SaaS engineering, and automation systems**. I specialize in building intelligent systems from the ground up — from **training core AI models** to deploying production-ready scalable products.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ukzada&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ukzada&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ukzada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work at the intersection of:
+
+* **AI Research**
+* **Machine Learning Engineering**
+* **Product Architecture**
+* **Automation Systems**
+* **Scalable SaaS Development**
 
 ---
-[![](https://komarev.com/ghpvc/?username=ukzada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## AI / ML Engineering
+
+My core expertise includes:
+
+### Deep Learning & Model Training
+
+* Training custom machine learning models
+* Neural network architecture design
+* Transformer model fine-tuning
+* Data preprocessing and feature engineering
+* Model optimization and evaluation
+* Hyperparameter tuning
+* Distributed training workflows
+* Model compression and optimization
+
+### Large Language Models (LLMs)
+
+* Fine-tuning LLMs for specialized tasks
+* Retrieval-Augmented Generation (RAG)
+* Multi-agent AI systems
+* Prompt engineering and optimization
+* Tool-calling agent architectures
+* Memory systems for conversational AI
+* Embedding pipelines
+* Vector database integrations
+
+### Computer Vision
+
+* OCR model development
+* Document intelligence systems
+* Object detection pipelines
+* Face detection systems
+* AR-based computer vision systems
+* Image preprocessing and enhancement
+
+### AI Infrastructure
+
+* Model deployment pipelines
+* GPU-based training environments
+* Scalable inference systems
+* API serving for AI models
+* AI workflow orchestration
+* Self-hosted model deployment
+
+---
+
+## Professional Experience
+
+### Co-Founder & CPO — Agus Systems
+
+**Present**
+
+Leading product development, AI architecture, and engineering strategy for scalable AI products and automation systems.
+
+Responsibilities:
+
+* Product strategy & roadmap
+* AI product design
+* ML pipeline development
+* Model deployment architecture
+* Workflow automation systems
+* Scalable backend engineering
+* Team technical direction
+
+---
+
+### AI/ML Engineer
+
+Worked on:
+
+* Custom AI model training
+* LLM fine-tuning
+* OCR intelligence systems
+* Automated data pipelines
+* NLP systems
+* AI agent frameworks
+* Predictive automation systems
+* Business intelligence models
+
+---
+
+### ARV Fashion Mirror — AI / Computer Vision Engineer
+
+Built and optimized:
+
+* Real-time virtual try-on systems
+* Face landmark detection
+* AI-powered fashion overlays
+* Computer vision optimization pipelines
+* User interaction models
+
+---
+
+### OCR & Document Intelligence Systems
+
+Built production systems for:
+
+* Invoice OCR extraction
+* Automated bookkeeping
+* Document classification
+* Smart financial parsing
+* AI-based invoice validation
+
+Currently building **LedgerLens**, an AI-powered OCR and bookkeeping SaaS.
+
+---
+
+### Telephony & Automation Systems Engineer
+
+Built and managed:
+
+* VICIdial infrastructure
+* CRM automation systems
+* Lead funnel systems
+* AI sales bots
+* Client onboarding workflows
+* Smart communication systems
+
+---
+
+## Open Source
+
+I actively contribute to open-source technologies and build tools focused on:
+
+* AI infrastructure
+* Automation systems
+* Backend development
+* Developer tooling
+* Workflow engines
+* Machine learning integrations
+
+---
+
+## Current Projects
+
+🚀 LedgerLens — AI invoice OCR SaaS
+🚀 Multi-agent LLM systems
+🚀 SmartCredit AI Automation
+🚀 AI lead generation pipelines
+🚀 Telegram AI bots
+🚀 Self-hosted automation infrastructures
+🚀 Custom model training systems
+
+---
+
+## Tech Stack
+
+### AI / ML
+
+Python • PyTorch • TensorFlow • OpenCV • Hugging Face • LangChain • OpenAI APIs • Vector DBs
+
+### Backend
+
+Node.js • NestJS • FastAPI • Express
+
+### Frontend
+
+Next.js • React • Flutter
+
+### Databases
+
+PostgreSQL • Prisma • Redis • Firebase
+
+### DevOps
+
+Docker • Linux • Nginx • VPS • GPU Servers
+
+### Automation
+
+n8n • Zapier • Webhooks • API Integrations
+
+---
+
+## What Drives Me
+
+I build intelligent systems that combine **research-level AI engineering** with **real-world business applications** — transforming ideas into scalable, production-ready technology.
