@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Usman 👋
 
-<!--
-**ukzada/ukzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Automation Builder | SaaS Engineer
 
-Here are some ideas to get you started:
+I build:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI-powered chatbots
+* n8n automations
+* CRM systems
+* Lead generation funnels
+* Telegram bots
+* Credit repair automation systems
+
+## Tech Stack
+
+⚡ Node.js
+⚡ NestJS
+⚡ Next.js
+⚡ PostgreSQL
+⚡ Prisma
+⚡ n8n
+⚡ Docker
+⚡ Redis
+⚡ Python
+
+## Current Projects
+
+🔹 LedgerLens (AI invoice OCR SaaS)
+🔹 SmartCredit Automation Bot
+🔹 DSI Automation Engine
+🔹 VICIdial Setup & Integrations
+
+## Connect with me
+
+📧 [your-email@example.com](mailto:your-email@example.com)
+🌐 Portfolio coming soon
